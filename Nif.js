@@ -22,7 +22,7 @@ class Nif {
     }
 
     mostrar(){
-        return `${this._dni}-${this._letra}`
+        return `NIF: ${this._dni}-${this._letra}`
     }
 }
 
